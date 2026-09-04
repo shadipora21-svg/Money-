@@ -1,0 +1,6 @@
+{
+  "name": "TaskPlay - Play & Earn Tasks",
+  "description": "Earn real rewards and cash out by completing fun mini-games, daily micro-tasks, scratch cards, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
